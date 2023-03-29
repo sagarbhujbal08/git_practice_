@@ -1,3 +1,3 @@
 Welcome in feature branch...
 
-reset changes
+push code and then revert commit
