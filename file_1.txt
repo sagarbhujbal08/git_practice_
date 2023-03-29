@@ -1,3 +1,5 @@
 Welcome on git...
 
 In last commit just text added and I did normal commit.
+
+We have to add this changes in feature branch.
